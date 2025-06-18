@@ -1,9 +1,6 @@
 """
  * FILENAME: [aws_s3_functionality.py]
  * AUTHOR: [Jeremy Underwood]
- * COURSE: [CYOP 400]
- * PROFESSOR: [Craig Poma]
- * CREATEDATE: [21JAN25]
 """
 
 import logging
